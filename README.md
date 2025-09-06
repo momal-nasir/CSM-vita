@@ -67,11 +67,11 @@ about.html
 ## 🔹 Screenshots
 
 ### Home Section
-![Home Screenshot](assets/Screenshots/Homepage Screenshot.jpg)
+![Homepage Screenshot](https://github.com/momal-nasir/CSM-vita/blob/main/assets/Screenshots/Homepage%20Screenshot.jpg?raw=true)
 
 ### Pricing Section
-![Pricing Screenshot](assets/Screenshots/Pricing Screenshot.jpg)
+![Pricing Screenshot](https://github.com/momal-nasir/CSM-vita/blob/main/assets/Screenshots/Pricing%20Screenshot.jpg)
 
 ### Compliance Section
-![Compliance Screenshot](assets/Screenshots/Complience and partners Screenshots.jpg)
+![Compliance Screenshot](https://github.com/momal-nasir/CSM-vita/blob/main/assets/Screenshots/Complience%20and%20partners%20Screenshots.jpg))
 
